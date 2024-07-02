@@ -15,7 +15,7 @@ Support desktop notification.
 Support running the application as a daemon  
 Offer a wide range of CLI commands  
   
-https://github.com/aome510/spotify-player
+https://github.com/aome510/spotify-player  
 +-------------------------------------------------  
   
 I builded these packages because they are not in debian 12 repository. 
